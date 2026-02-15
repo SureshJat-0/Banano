@@ -1,0 +1,8 @@
+/* App background image */
+.app-shell {
+	background-color: #000;
+	background-image: url("./assets/homepage.png");
+	background-position: center top;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
