@@ -1,6 +1,6 @@
 import "../App.css";
 import HeroGroup from "../assets/HeroGroup.png";
-import globe from "../assets/globe.png";
+import globe from "../assets/Globe.png";
 import world from "../assets/world.png";
 import circleIcons from "../assets/CircleIcons.png";
 import MainIcon from "../assets/Icons/MainIcon.png";
